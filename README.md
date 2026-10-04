@@ -78,5 +78,5 @@
 
 ### 🎓 Education
 
-- **Master of Science: Data Science** | Vellore Institute of Technology (2024 - 2026)
+- **Master of Science: Data Science** | Vellore Institute of Technology (2024 - 2026) | *CGPA: 8.75/10.00*
 - **Bachelor of Technology: E&C** | Maharashtra Institute of Technology (2017 - 2021) | *CGPA: 8.81/10.00*
